@@ -1,0 +1,15 @@
+#title {
+  margin: auto;
+  width: 75%;
+  border: 3px solid black;
+  padding: 10px;
+  text-align: center;
+  background-color: blue;
+  font-family: "garamond";
+}
+
+#body {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
